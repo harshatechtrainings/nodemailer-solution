@@ -23,6 +23,8 @@ Make sure you have the following installed before running the project:
   PORT=<server port>
   MONGODB_URI=<mangodb cluster URL>
   JWT_SECRET=<any random secret key>
+  EMAIL_SENDER=<sendermail>
+  EMAIL_APPPASS=<Mail APP Passcode>
   ```
 
 ## Getting Started
